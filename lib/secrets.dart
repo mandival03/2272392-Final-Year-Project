@@ -1,0 +1,2 @@
+const String OPENAI_API_KEY = "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";
+const String CHECKING_KEY = "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";
