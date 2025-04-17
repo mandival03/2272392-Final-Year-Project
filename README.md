@@ -1,16 +1,34 @@
-# my_maths_1
+# Maths&Me - Flutter GCSE Maths App
 
-A new Flutter project.
+## How to Run
 
-## Getting Started
+1. Install Flutter from https://flutter.dev/docs/get-started/install
+2. Clone or unzip the project
+3. Run:
 
-This project is a starting point for a Flutter application.
+   flutter pub get  
+   flutter run
 
-A few resources to get you started if this is your first Flutter project:
+## Flutter Version
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Tested with Flutter 3.10.5  
+Dart 3.0.5
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## API Keys
+
+This app uses OpenAI GPT-3.5 APIs.
+To run the app, replace the placeholder keys in:
+
+  lib/secrets.dart
+
+with your own OpenAI API keys:
+
+  const openaiKey = 'your-key';
+  const checkingKey = 'your-fine-tuned-key';
+
+## Notes
+
+- Works on Android and Web
+- All data is stored locally in memory (no login)
+- Teaching content is stored in teachingNotes.dart
+- Main entry point: lib/main.dart
