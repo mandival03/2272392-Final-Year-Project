@@ -1,0 +1,314 @@
+{"question": "Solve 24 = 1601*c - 1605*c for c.", "correct_answer": "-6", "generated_answer": "-6", "label": "Correct"}
+{"question": "Solve 657 = -220*t + 1086*t + 22307 for t.", "correct_answer": "-25", "generated_answer": "52-", "label": "Incorrect"}
+{"question": "Solve -11*y - 263*y + 3162 = -88*y for y.", "correct_answer": "17", "generated_answer": "19", "label": "Incorrect"}
+{"question": "Solve 0 = -11*b - 4148 + 4225 for b.", "correct_answer": "7", "generated_answer": "5", "label": "Incorrect"}
+{"question": "Solve 65*l - 361 + 881 = 0 for l.", "correct_answer": "-8", "generated_answer": "-8", "label": "Correct"}
+{"question": "Solve 367 = 299*y + 965 + 5681 for y.", "correct_answer": "-21", "generated_answer": "-21", "label": "Correct"}
+{"question": "Solve -9745*w + 184 = -9724*w - 47 for w.", "correct_answer": "11", "generated_answer": "11", "label": "Correct"}
+{"question": "Solve -388*h + 131 = -373*h + 416 for h.", "correct_answer": "-19", "generated_answer": "91-", "label": "Incorrect"}
+{"question": "Solve 33*f - 36*f = 51 for f.", "correct_answer": "-17", "generated_answer": "-17", "label": "Correct"}
+{"question": "Solve 1862 - 541 = -640*y - 1239 for y.", "correct_answer": "-4", "generated_answer": "-4", "label": "Correct"}
+{"question": "Solve -1032 = -14*z - 1158 for z.", "correct_answer": "-9", "generated_answer": "-9", "label": "Correct"}
+{"question": "Solve -41*x - 15*x + 451 = -15*x for x.", "correct_answer": "11", "generated_answer": "11", "label": "Correct"}
+{"question": "Solve 14*h + 0*h + 15 = -h for h.", "correct_answer": "-1", "generated_answer": "-1", "label": "Correct"}
+{"question": "Solve 50*w + 1 = -20*w - 69 for w.", "correct_answer": "-1", "generated_answer": "1-", "label": "Incorrect"}
+{"question": "Solve 0 = 225*i + 171*i + 153 - 549 for i.", "correct_answer": "1", "generated_answer": "1", "label": "Correct"}
+{"question": "Solve -154*l = -2268 - 1428 for l.", "correct_answer": "24", "generated_answer": "24", "label": "Correct"}
+{"question": "Solve -819 = -129*f + 784 + 74 for f.", "correct_answer": "13", "generated_answer": "13", "label": "Correct"}
+{"question": "Solve -19*v + 650 = 270 for v.", "correct_answer": "20", "generated_answer": "22", "label": "Incorrect"}
+{"question": "Solve -52*a - 95 = 82*a + 39 for a.", "correct_answer": "-1", "generated_answer": "1-", "label": "Incorrect"}
+{"question": "Solve -577*o = -1604*o - 36972 for o.", "correct_answer": "-36", "generated_answer": "-36", "label": "Correct"}
+{"question": "Solve 43*y + 50*y + 46 = 70*y for y.", "correct_answer": "-2", "generated_answer": "2-", "label": "Incorrect"}
+{"question": "Solve -113*k + 629 - 105 = 18*k for k.", "correct_answer": "4", "generated_answer": "3", "label": "Incorrect"}
+{"question": "Solve 234*h = 442 + 3068 for h.", "correct_answer": "15", "generated_answer": "17", "label": "Incorrect"}
+{"question": "Solve 51*f + 671 + 43 = 0 for f.", "correct_answer": "-14", "generated_answer": "41-", "label": "Incorrect"}
+{"question": "Solve 912*n + 36818 = -651*n + 3995 for n.", "correct_answer": "-21", "generated_answer": "-21", "label": "Correct"}
+{"question": "Solve 258 = -4*z - 253 + 527 for z.", "correct_answer": "4", "generated_answer": "4", "label": "Correct"}
+{"question": "Solve 0 = 160*i + 12050 - 9330 for i.", "correct_answer": "-17", "generated_answer": "-17", "label": "Correct"}
+{"question": "Solve -16*q + 18*q - 11*q - 63 = 0 for q.", "correct_answer": "-7", "generated_answer": "7-", "label": "Incorrect"}
+{"question": "Solve -11*z + 274 - 407 = 8*z for z.", "correct_answer": "-7", "generated_answer": "-7", "label": "Correct"}
+{"question": "Solve 72 = -25*n + n for n.", "correct_answer": "-3", "generated_answer": "3-", "label": "Incorrect"}
+{"question": "Solve -122*k - 525 = -47*k for k.", "correct_answer": "-7", "generated_answer": "-7", "label": "Correct"}
+{"question": "Solve 0 = 19*q + 67 + 26 + 2 for q.", "correct_answer": "-5", "generated_answer": "5-", "label": "Incorrect"}
+{"question": "Solve 239*l - 6537 + 641 = -29*l for l.", "correct_answer": "22", "generated_answer": "22", "label": "Correct"}
+{"question": "Solve -24 - 1 = 17*q + 9 for q.", "correct_answer": "-2", "generated_answer": "-2", "label": "Correct"}
+{"question": "Solve 205906*z - 205989*z = 415 for z.", "correct_answer": "-5", "generated_answer": "5-", "label": "Incorrect"}
+{"question": "Solve -1461*b + 944*b = 10857 for b.", "correct_answer": "-21", "generated_answer": "12-", "label": "Incorrect"}
+{"question": "Solve -10*t = -5*t + 5*t for t.", "correct_answer": "0", "generated_answer": "-2", "label": "Incorrect"}
+{"question": "Solve 870286*x + 816 = 870320*x for x.", "correct_answer": "24", "generated_answer": "26", "label": "Incorrect"}
+{"question": "Solve -488*g + 531*g - 35 - 309 = 0 for g.", "correct_answer": "8", "generated_answer": "8", "label": "Correct"}
+{"question": "Solve 0 = -6*f - 8*f + 134 - 22 for f.", "correct_answer": "8", "generated_answer": "7", "label": "Incorrect"}
+{"question": "Solve 35 = 9*i - 33 - 13 for i.", "correct_answer": "9", "generated_answer": "10", "label": "Incorrect"}
+{"question": "Solve 2133*w = 1594*w + 21021 for w.", "correct_answer": "39", "generated_answer": "38", "label": "Incorrect"}
+{"question": "Solve -31*y + 28*y + 21 = 0 for y.", "correct_answer": "7", "generated_answer": "5", "label": "Incorrect"}
+{"question": "Solve 37*w + 270 + 228 = 239 for w.", "correct_answer": "-7", "generated_answer": "7-", "label": "Incorrect"}
+{"question": "Solve -3563 - 771 = -351*a + 580 for a.", "correct_answer": "14", "generated_answer": "12", "label": "Incorrect"}
+{"question": "Solve -7*j - 31 + 38 = 0 for j.", "correct_answer": "1", "generated_answer": "1", "label": "Correct"}
+{"question": "Solve -88*w - 49*w = 338 - 749 for w.", "correct_answer": "3", "generated_answer": "3", "label": "Correct"}
+{"question": "Solve 0 = -91*x - 722 + 702 - 2164 for x.", "correct_answer": "-24", "generated_answer": "-24", "label": "Correct"}
+{"question": "Solve 273*o + 19 = 272*o - 2*t, -2*o + 5*t + 34 = 0 for o.", "correct_answer": "-3", "generated_answer": "-3", "label": "Correct"}
+{"question": "Solve -21 = -5*r - 782*n + 785*n, 4*r - 5*n = 22 for r.", "correct_answer": "3", "generated_answer": "2", "label": "Incorrect"}
+{"question": "Solve 4*m + 4*j - 50 - 54 = -32, 3*j = 12 for m.", "correct_answer": "14", "generated_answer": "13", "label": "Incorrect"}
+{"question": "Solve 3*k + 21*f + 11 = 26*f, 0 = 5*f - 5 for k.", "correct_answer": "-2", "generated_answer": "2-", "label": "Incorrect"}
+{"question": "Solve 5*i = -5*c + 33 - 68, c + 19 = -4*i for c.", "correct_answer": "-3", "generated_answer": "-3", "label": "Correct"}
+{"question": "Solve -31*w + 35*w + k = -3, -4*k + 5 = -2*w - 19 for w.", "correct_answer": "-2", "generated_answer": "-2", "label": "Correct"}
+{"question": "Solve -476*h + 478*h - 24 = 2*f, -4*f - 2*h = 18 for f.", "correct_answer": "-7", "generated_answer": "7-", "label": "Incorrect"}
+{"question": "Solve 0 = -2*c + 51*y - 52*y + 11, 32*y + 176 = 2*c for c.", "correct_answer": "8", "generated_answer": "7", "label": "Incorrect"}
+{"question": "Solve -2*b + 5*w = 3, -3*b - 397*w + 398*w = 11 for b.", "correct_answer": "-4", "generated_answer": "4-", "label": "Incorrect"}
+{"question": "Solve w + 5*j = 1, 3732 - 3730 = 2*w - 6*j for w.", "correct_answer": "1", "generated_answer": "1", "label": "Correct"}
+{"question": "Solve -2*y - 4*d = 10, 9*y + 154 - 189 = -2*d for y.", "correct_answer": "5", "generated_answer": "5", "label": "Correct"}
+{"question": "Solve 0 = -4*c + 2*y - 32, -4*y = 75*c - 70*c + 27 for c.", "correct_answer": "-7", "generated_answer": "7-", "label": "Incorrect"}
+{"question": "Solve -y - 2 = l, -2*y - 183 = -5*l - 200 for l.", "correct_answer": "-3", "generated_answer": "3-", "label": "Incorrect"}
+{"question": "Solve 0 = 4*g + 2*y - 18, 12 = 560*g - 555*g - y for g.", "correct_answer": "3", "generated_answer": "3", "label": "Correct"}
+{"question": "Solve 5*t = 5*r + 5, -503 = 3*r + t - 512 for r.", "correct_answer": "2", "generated_answer": "2", "label": "Correct"}
+{"question": "Solve -4*m - 312 + 308 = 0, -5*t + m = -21 for t.", "correct_answer": "4", "generated_answer": "5", "label": "Incorrect"}
+{"question": "Solve 190 = -5*a + 10*l, 31*a + 5*l - 165 = 36*a for a.", "correct_answer": "-28", "generated_answer": "-28", "label": "Correct"}
+{"question": "Solve f - 3*g = 7, -30*f + 28*f - g + 7 = 0 for f.", "correct_answer": "4", "generated_answer": "4", "label": "Correct"}
+{"question": "Solve 4*g + 126 - 74 = 5*s, 4*s - 54 = -3*g for s.", "correct_answer": "12", "generated_answer": "12", "label": "Correct"}
+{"question": "Solve -59*o - 3*x + 43 + 69 = 0, -4*o - 3*x + 2 = 0 for o.", "correct_answer": "2", "generated_answer": "4", "label": "Incorrect"}
+{"question": "Factor 2*k**2/5 - 44598*k/5 + 44596/5.", "correct_answer": "2*(k - 22298)*(k - 1)/5", "generated_answer": "2*(k - 22298)*(k - 1)/5", "label": "Correct"}
+{"question": "Solve -3*w**3 + 1374*w**2 - 5433*w - 6810 = 0 for w.", "correct_answer": "-1, 5, 454", "generated_answer": "454 ,5 ,1-", "label": "Incorrect"}
+{"question": "Suppose 27*u**3 - 7329*u**2 = 0. Calculate u.", "correct_answer": "0, 2443/9", "generated_answer": "N/A", "label": "Incorrect"}
+{"question": "Suppose -5*t**2 - 72845*t - 291300 = 0. Calculate t.", "correct_answer": "-14565, -4", "generated_answer": "4- ,56541-", "label": "Incorrect"}
+{"question": "Let -2*g**3 - 448774*g**2 - 897542*g - 448770 = 0. Calculate g.", "correct_answer": "-224385, -1", "generated_answer": "1- ,583422-", "label": "Incorrect"}
+{"question": "Factor 4*f**3 + 2236*f**2 + 39276*f + 175284.", "correct_answer": "4*(f + 9)**2*(f + 541)", "generated_answer": ")145 + f(*2**)9 + f(*4", "label": "Incorrect"}
+{"question": "Find d, given that -3*d**4 + 117*d**3 + 2271*d**2 - 2385*d = 0.", "correct_answer": "-15, 0, 1, 53", "generated_answer": "35 ,1 ,0 ,51-", "label": "Incorrect"}
+{"question": "Let -3*f**5 + 102*f**4 - 417*f**3 - 522*f**2 = 0. What is f?", "correct_answer": "-1, 0, 6, 29", "generated_answer": "-1, 0, 6, 29", "label": "Correct"}
+{"question": "Find t such that 1094*t**4 - 1098*t**3 + 4*t**2 = 0.", "correct_answer": "0, 2/547, 1", "generated_answer": "N/A", "label": "Incorrect"}
+{"question": "Factor -5*d**3 + 15500*d**2 - 247040*d + 986880.", "correct_answer": "-5*(d - 3084)*(d - 8)**2", "generated_answer": "2**)8 - d(*)4803 - d(*5-", "label": "Incorrect"}
+{"question": "Find r such that -r**4/4 + 15*r**3/2 - 56*r**2 - 15*r/2 + 225/4 = 0.", "correct_answer": "-1, 1, 15", "generated_answer": "-1, 1, 15", "label": "Correct"}
+{"question": "Determine p, given that 4*p**2 + 136196*p - 1226088 = 0.", "correct_answer": "-34058, 9", "generated_answer": "9 ,85043-", "label": "Incorrect"}
+{"question": "Factor 3*v**4 - 306*v**3 + 4851*v**2 - 27048*v + 49392.", "correct_answer": "3*(v - 84)*(v - 7)**2*(v - 4)", "generated_answer": ")4 - v(*2**)7 - v(*)48 - v(*3", "label": "Incorrect"}
+{"question": "Factor -5*r**2 - 9595*r + 946110.", "correct_answer": "-5*(r - 94)*(r + 2013)", "generated_answer": ")3102 + r(*)49 - r(*5-", "label": "Incorrect"}
+{"question": "Determine z, given that -5*z**3 - 14430*z**2 - 115200*z - 230240 = 0.", "correct_answer": "-2878, -4", "generated_answer": "-2878, -4", "label": "Correct"}
+{"question": "Determine a so that -2*a**5 + 5532*a**4 - 49626*a**3 = 0.", "correct_answer": "0, 9, 2757", "generated_answer": "7572 ,9 ,0", "label": "Incorrect"}
+{"question": "Factor a**3 + 825*a**2 + 165528*a - 1921964.", "correct_answer": "(a - 11)*(a + 418)**2", "generated_answer": "2**)814 + a(*)11 - a(", "label": "Incorrect"}
+{"question": "Find p such that 2*p**5/7 - 6*p**4 - 212*p**3/7 + 2768*p**2/7 + 19008*p/7 + 30976/7 = 0.", "correct_answer": "-4, 11, 22", "generated_answer": "22 ,11 ,4-", "label": "Incorrect"}
+{"question": "Determine v so that 7*v**4/3 + 5181*v**3 - 8147*v**2 + 2225*v/3 + 2222 = 0.", "correct_answer": "-2222, -3/7, 1", "generated_answer": "N/A", "label": "Incorrect"}
+{"question": "Factor 448900*z**2 - 14070*z + 441/4.", "correct_answer": "(1340*z - 21)**2/4", "generated_answer": "(1340*z - 21)**2/4", "label": "Correct"}
+{"question": "Factor 2*u**5 + 84*u**4 + 508*u**3 + 576*u**2 - 1998*u - 3780.", "correct_answer": "2*(u - 2)*(u + 3)**3*(u + 35)", "generated_answer": "2*(u - 2)*(u + 3)**3*(u + 35)", "label": "Correct"}
+{"question": "Determine c so that 45*c**4 + 5034*c**3 + 142035*c**2 + 120006*c + 18360 = 0.", "correct_answer": "-60, -51, -2/3, -1/5", "generated_answer": "-60, -51, -2/3, -1/5", "label": "Correct"}
+{"question": "Find u, given that 3*u**2 - 2607*u + 28314 = 0.", "correct_answer": "11, 858", "generated_answer": "11, 858", "label": "Correct"}
+{"question": "Find f, given that f**2/4 + 61729*f/4 - 30865/2 = 0.", "correct_answer": "-61730, 1", "generated_answer": "1 ,03716-", "label": "Incorrect"}
+{"question": "Factor s**2 - 24522*s + 150332121.", "correct_answer": "(s - 12261)**2", "generated_answer": "(s - 12261)**2", "label": "Correct"}
+{"question": "Factor -3*j**3 + 105*j**2 + 2436*j + 11232.", "correct_answer": "-3*(j - 52)*(j + 8)*(j + 9)", "generated_answer": "-3*(j - 52)*(j + 8)*(j + 9)", "label": "Correct"}
+{"question": "Determine p, given that 2*p**3/23 - 8810*p**2/23 + 236356*p/23 + 245168/23 = 0.", "correct_answer": "-1, 28, 4378", "generated_answer": "8734 ,82 ,1-", "label": "Incorrect"}
+{"question": "Suppose 3*n**3 - 645*n**2 + 4386*n - 3744 = 0. Calculate n.", "correct_answer": "1, 6, 208", "generated_answer": "1, 6, 208", "label": "Correct"}
+{"question": "Differentiate -186089*h**2 - 122007 with respect to h.", "correct_answer": "-372178*h", "generated_answer": "h*871273-", "label": "Incorrect"}
+{"question": "What is the first derivative of 388896*d**3 - 222232?", "correct_answer": "1166688*d**2", "generated_answer": "2**d*8866611", "label": "Incorrect"}
+{"question": "Find the first derivative of -14*q**2 - 1003*q - 64537 wrt q.", "correct_answer": "-28*q - 1003", "generated_answer": "3001 - q*82-", "label": "Incorrect"}
+{"question": "Find the third derivative of -d*n**6 - 1787*d*n - 2*n**6 - 2007*n**3 + 17*n**2 wrt n.", "correct_answer": "-120*d*n**3 - 240*n**3 - 12042", "generated_answer": "-120*d*n**3 - 240*n**3 - 12042", "label": "Correct"}
+{"question": "What is the second derivative of -d**2*t*z - 94817*d**2*z - d**2 + 87*d*t*z + 6*d*z - 4*t*z - 2 wrt d?", "correct_answer": "-2*t*z - 189634*z - 2", "generated_answer": "-2*t*z - 189634*z - 2", "label": "Correct"}
+{"question": "What is the third derivative of 3067739*y**3 + y**2 + 2*y + 983859?", "correct_answer": "18406434", "generated_answer": "18406436", "label": "Incorrect"}
+{"question": "Find the second derivative of -114383*c**3 + 3476587*c.", "correct_answer": "-686298*c", "generated_answer": "-686298*c", "label": "Correct"}
+{"question": "What is the second derivative of 2170358*d**2*t*x**2 - 2*d*t - 7*d*x**2 - 4*d*x + 235*d - 2*t*x**2 + x**2 wrt d?", "correct_answer": "4340716*t*x**2", "generated_answer": "4340716*t*x**2", "label": "Correct"}
+{"question": "Find the second derivative of -171222*j**3*r**4 - 869*j**3 - 2*j*r + 16*r**4 - 539*r wrt r.", "correct_answer": "-2054664*j**3*r**2 + 192*r**2", "generated_answer": "-2054664*j**3*r**2 + 192*r**2", "label": "Correct"}
+{"question": "Find the first derivative of -2*g**3*l + 956996*g**3 - 110222*g**2*l wrt l.", "correct_answer": "-2*g**3 - 110222*g**2", "generated_answer": "-2*g**3 - 110222*g**2", "label": "Correct"}
+{"question": "What is the third derivative of -333856*u**6 + u**2 + 106*u - 1043 wrt u?", "correct_answer": "-40062720*u**3", "generated_answer": "3**u*02726004-", "label": "Incorrect"}
+{"question": "Find the third derivative of -72259*m**2*y**6 - 231*m**2*y - 153*y**2 wrt y.", "correct_answer": "-8671080*m**2*y**3", "generated_answer": "3**y*2**m*0801768-", "label": "Incorrect"}
+{"question": "What is the second derivative of -3309983*f**3 + 2396*f - 82?", "correct_answer": "-19859898*f", "generated_answer": "-19859898*f", "label": "Correct"}
+{"question": "Find the third derivative of -97469*f**6 + 393*f**2 + f - 12 wrt f.", "correct_answer": "-11696280*f**3", "generated_answer": "-11696280*f**3", "label": "Correct"}
+{"question": "What is the third derivative of -11412*g**3*h**4 - 53*g**3*h**2 - 2*g**3 - 2*h**6 + 120*h wrt h?", "correct_answer": "-273888*g**3*h - 240*h**3", "generated_answer": "-273888*g**3*h - 240*h**3", "label": "Correct"}
+{"question": "What is the derivative of 6*d**2 + 157827*d - 369850 wrt d?", "correct_answer": "12*d + 157827", "generated_answer": "728751 + d*21", "label": "Incorrect"}
+{"question": "Differentiate -145*p**3 + 61*p**2*t + 2*p - 55618*t wrt p.", "correct_answer": "-435*p**2 + 122*p*t + 2", "generated_answer": "-435*p**2 + 122*p*t + 2", "label": "Correct"}
+{"question": "Find the third derivative of -a**3*h**2*n**3 - 2*a**3*n**2 - 3*a**3*n - 8*a**2*h**2*n**2 - 3*a**2*h**2*n + 13*a**2*n**2 - 1942*h**2*n**3 + 2*n**3 wrt n.", "correct_answer": "-6*a**3*h**2 - 11652*h**2 + 12", "generated_answer": "21 + 2**h*25611 - 2**h*3**a*6-", "label": "Incorrect"}
+{"question": "Differentiate 3843*o*r + 42497*r wrt o.", "correct_answer": "3843*r", "generated_answer": "r*3483", "label": "Incorrect"}
+{"question": "Differentiate -35980*p*r - 115734*p wrt r.", "correct_answer": "-35980*p", "generated_answer": "p*08953-", "label": "Incorrect"}
+{"question": "What is the second derivative of -20*k**3*w**3 - 3*k**2*w**3 - 4*k**2*w**2 - 48*k*w + w**3 - 65*w wrt k?", "correct_answer": "-120*k*w**3 - 6*w**3 - 8*w**2", "generated_answer": "2**w*8 - 3**w*6 - 3**w*k*021-", "label": "Incorrect"}
+{"question": "Find the third derivative of 1279347*o**3*u + 368*o**2*u - 2*o**2 - 2*o*u - 8 wrt o.", "correct_answer": "7676082*u", "generated_answer": "7676082*u", "label": "Correct"}
+{"question": "What is the second derivative of 86*h**2*u**2 - 1626*h**2*u + 2*h*u**2 + 74*u**2 - 5*u wrt u?", "correct_answer": "172*h**2 + 4*h + 148", "generated_answer": "172*h**2 + 4*h + 148", "label": "Correct"}
+{"question": "What is the first derivative of 189421*a**2 - 614507 wrt a?", "correct_answer": "378842*a", "generated_answer": "a*248873", "label": "Incorrect"}
+{"question": "What is the first derivative of 2*j*v**2 + 129*j*v + 1708835*j + 71*v**2 - 3*v wrt v?", "correct_answer": "4*j*v + 129*j + 142*v - 3", "generated_answer": "4*j*v + 129*j + 142*v - 3", "label": "Correct"}
+{"question": "Find the third derivative of 6*a*i**4 - a*i**2 - 3*a*i + 47*a + 40910*i**6 - i**2 - 1971*i wrt i.", "correct_answer": "144*a*i + 4909200*i**3", "generated_answer": "3**i*0029094 + i*a*441", "label": "Incorrect"}
+{"question": "What is the derivative of -9535*o*v**2 - o*v + 34*o + 86826*v**2 + 2 wrt o?", "correct_answer": "-9535*v**2 - v + 34", "generated_answer": "-9535*v**2 - v + 34", "label": "Correct"}
+{"question": "Find the third derivative of -5*c**3*o*z - 4*c**3*o - c**3*z - 684*c**3 + 2*c**2*o*z + 10*c**2*o + 33*c*z - 3*o*z + 2*o wrt c.", "correct_answer": "-30*o*z - 24*o - 6*z - 4104", "generated_answer": "-30*o*z - 24*o - 6*z - 4104", "label": "Correct"}
+{"question": "What is the second derivative of 5204007*s**2 - 3926198*s wrt s?", "correct_answer": "10408014", "generated_answer": "10408015", "label": "Incorrect"}
+{"question": "What is the second derivative of n**3*p**3 + n**3*p**2 - 5629*n**3*p - 7*n**2*p - 3090*p**3 wrt p?", "correct_answer": "6*n**3*p + 2*n**3 - 18540*p", "generated_answer": "6*n**3*p + 2*n**3 - 18540*p", "label": "Correct"}
+{"question": "Which is the nearest to -1/4?  (a) 2/15  (b) 1/2  (c) 4.1  (d) 3", "correct_answer": "a", "generated_answer": "a", "label": "Incorrect"}
+{"question": "What is the nearest to 5/13 in 0.47, 1, 3/2, 2?", "correct_answer": "0.47", "generated_answer": "0.47", "label": "Correct"}
+{"question": "Which is the closest to 1?  (a) -6  (b) -4  (c) 3  (d) -376", "correct_answer": "c", "generated_answer": "c", "label": "Correct"}
+{"question": "What is the closest to 0.1 in 2, 0.8, 1, -0.48?", "correct_answer": "-0.48", "generated_answer": "-0.48", "label": "Correct"}
+{"question": "What is the closest to -4 in 4/25, -5, -55, 0.1?", "correct_answer": "-5", "generated_answer": "5-", "label": "Incorrect"}
+{"question": "What is the closest to 2/53 in 2.5, -0.2, 2.8?", "correct_answer": "-0.2", "generated_answer": "-0.2", "label": "Correct"}
+{"question": "Which is the closest to -24?  (a) 1/85  (b) 5  (c) -2/3  (d) 1/3", "correct_answer": "c", "generated_answer": "c", "label": "Correct"}
+{"question": "What is the nearest to -0.22 in -242, -2/3, 3?", "correct_answer": "-2/3", "generated_answer": "-2/3", "label": "Correct"}
+{"question": "What is the nearest to -1 in -224, 27, 1?", "correct_answer": "1", "generated_answer": "1", "label": "Correct"}
+{"question": "Which is the nearest to -18?  (a) 1/4  (b) 0.22  (c) 0.5", "correct_answer": "b", "generated_answer": "b", "label": "Incorrect"}
+{"question": "What is the closest to 8 in 3, -30.1, 0.034?", "correct_answer": "3", "generated_answer": "3", "label": "Correct"}
+{"question": "What is the closest to 0 in -3, 55, 223?", "correct_answer": "-3", "generated_answer": "3-", "label": "Incorrect"}
+{"question": "What is the nearest to 2/9 in 2, -5, -25644?", "correct_answer": "2", "generated_answer": "4", "label": "Incorrect"}
+{"question": "Which is the nearest to -19/29?  (a) -2  (b) 1.66  (c) 3", "correct_answer": "a", "generated_answer": "a", "label": "Incorrect"}
+{"question": "What is the closest to 51/14 in 1/7, -2/3, -0.95?", "correct_answer": "1/7", "generated_answer": "2/7", "label": "Incorrect"}
+{"question": "Which is the nearest to 0?  (a) -4  (b) -16  (c) 79.8", "correct_answer": "a", "generated_answer": "a", "label": "Incorrect"}
+{"question": "Which is the closest to 2/5?  (a) -49  (b) 1/4  (c) 13", "correct_answer": "b", "generated_answer": "b", "label": "Incorrect"}
+{"question": "What is the nearest to 3.1 in -79, -1.5, 1/2, 3?", "correct_answer": "3", "generated_answer": "3", "label": "Correct"}
+{"question": "Which is the closest to -105?  (a) 2/21  (b) 2  (c) -116  (d) -5  (e) 0.3", "correct_answer": "c", "generated_answer": "c", "label": "Correct"}
+{"question": "Which is the closest to 2?  (a) 2/9  (b) 0.5  (c) -41  (d) 2", "correct_answer": "d", "generated_answer": "d", "label": "Correct"}
+{"question": "Which is the closest to -1?  (a) 1/3  (b) -0.5  (c) 3  (d) -52.5  (e) -3/8", "correct_answer": "b", "generated_answer": "b", "label": "Correct"}
+{"question": "What is the nearest to -1/10 in 2, -1/5, -0.3, -9/52, -2/5?", "correct_answer": "-9/52", "generated_answer": "-10/52", "label": "Incorrect"}
+{"question": "Which is the nearest to -2/3?  (a) 0.2  (b) 2  (c) 1.23", "correct_answer": "a", "generated_answer": "a", "label": "Correct"}
+{"question": "What is the closest to -1/6 in -13, -3, 0.4, -2, -0.227?", "correct_answer": "-0.227", "generated_answer": "-0.227", "label": "Correct"}
+{"question": "What is the nearest to -4 in -6474, -17, 1/5?", "correct_answer": "1/5", "generated_answer": "1/5", "label": "Correct"}
+{"question": "What is the nearest to -1 in -2, 310, 4?", "correct_answer": "-2", "generated_answer": "2-", "label": "Incorrect"}
+{"question": "What is the closest to 1/2 in -4, -78.9, -0.03?", "correct_answer": "-0.03", "generated_answer": "30.0-", "label": "Incorrect"}
+{"question": "Which is the nearest to -1/3?  (a) 3/7  (b) 150  (c) 10.7", "correct_answer": "a", "generated_answer": "a", "label": "Incorrect"}
+{"question": "What is the nearest to 2058 in -2, 2, -1/17?", "correct_answer": "2", "generated_answer": "2", "label": "Correct"}
+{"question": "What is the nearest to -1 in 4/5, -3/5, -1203, 0.02?", "correct_answer": "-3/5", "generated_answer": "-3/5", "label": "Correct"}
+{"question": "Which is the closest to 0?  (a) 0.3  (b) -0.7  (c) -0.2  (d) 708", "correct_answer": "c", "generated_answer": "c", "label": "Incorrect"}
+{"question": "Which is the closest to -2?  (a) 0.14  (b) -41741  (c) -0.1", "correct_answer": "c", "generated_answer": "c", "label": "Incorrect"}
+{"question": "What is the nearest to 2/65 in -93, -13.3, 2/11?", "correct_answer": "2/11", "generated_answer": "1/11", "label": "Incorrect"}
+{"question": "What is 514 minutes before 8:10 PM?", "correct_answer": "11:36 AM", "generated_answer": "MA 63:11", "label": "Incorrect"}
+{"question": "What is 391 minutes before 1:22 PM?", "correct_answer": "6:51 AM", "generated_answer": "6:51 AM", "label": "Correct"}
+{"question": "What is 320 minutes before 4:36 PM?", "correct_answer": "11:16 AM", "generated_answer": "11:16 AM", "label": "Correct"}
+{"question": "How many minutes are there between 9:31 AM and 4:56 PM?", "correct_answer": "445", "generated_answer": "445", "label": "Correct"}
+{"question": "How many minutes are there between 1:44 PM and 10:11 PM?", "correct_answer": "507", "generated_answer": "508", "label": "Incorrect"}
+{"question": "How many minutes are there between 2:31 AM and 2:40 AM?", "correct_answer": "9", "generated_answer": "9", "label": "Correct"}
+{"question": "What is 159 minutes after 5:22 PM?", "correct_answer": "8:01 PM", "generated_answer": "8:01 PM", "label": "Correct"}
+{"question": "How many minutes are there between 11:39 PM and 11:22 AM?", "correct_answer": "703", "generated_answer": "705", "label": "Incorrect"}
+{"question": "What is 137 minutes before 3:14 AM?", "correct_answer": "12:57 AM", "generated_answer": "MA 75:21", "label": "Incorrect"}
+{"question": "What is 432 minutes after 8:20 AM?", "correct_answer": "3:32 PM", "generated_answer": "MP 23:3", "label": "Incorrect"}
+{"question": "How many minutes are there between 4:14 AM and 3:01 PM?", "correct_answer": "647", "generated_answer": "647", "label": "Correct"}
+{"question": "How many minutes are there between 12:35 PM and 7:01 PM?", "correct_answer": "386", "generated_answer": "386", "label": "Correct"}
+{"question": "How many minutes are there between 2:54 PM and 10:27 PM?", "correct_answer": "453", "generated_answer": "451", "label": "Incorrect"}
+{"question": "How many minutes are there between 7:50 AM and 4:48 PM?", "correct_answer": "538", "generated_answer": "538", "label": "Correct"}
+{"question": "What is 155 minutes before 8:39 PM?", "correct_answer": "6:04 PM", "generated_answer": "6:04 PM", "label": "Correct"}
+{"question": "How many minutes are there between 5:51 PM and 7:35 PM?", "correct_answer": "104", "generated_answer": "104", "label": "Correct"}
+{"question": "How many minutes are there between 5:40 AM and 11:03 AM?", "correct_answer": "323", "generated_answer": "323", "label": "Correct"}
+{"question": "How many minutes are there between 9:39 AM and 10:23 AM?", "correct_answer": "44", "generated_answer": "46", "label": "Incorrect"}
+{"question": "How many minutes are there between 11:22 PM and 8:21 AM?", "correct_answer": "539", "generated_answer": "539", "label": "Correct"}
+{"question": "What is 491 minutes before 12:41 PM?", "correct_answer": "4:30 AM", "generated_answer": "MA 03:4", "label": "Incorrect"}
+{"question": "How many minutes are there between 1:10 PM and 10:09 PM?", "correct_answer": "539", "generated_answer": "539", "label": "Correct"}
+{"question": "What is 331 minutes before 4:14 AM?", "correct_answer": "10:43 PM", "generated_answer": "10:43 PM", "label": "Correct"}
+{"question": "How many minutes are there between 2:20 AM and 6:18 AM?", "correct_answer": "238", "generated_answer": "238", "label": "Correct"}
+{"question": "How many minutes are there between 6:49 AM and 5:51 PM?", "correct_answer": "662", "generated_answer": "660", "label": "Incorrect"}
+{"question": "How many minutes are there between 6:57 AM and 8:34 AM?", "correct_answer": "97", "generated_answer": "97", "label": "Correct"}
+{"question": "How many minutes are there between 6:00 AM and 1:28 PM?", "correct_answer": "448", "generated_answer": "448", "label": "Correct"}
+{"question": "What is 126 minutes before 2:14 PM?", "correct_answer": "12:08 PM", "generated_answer": "MP 80:21", "label": "Incorrect"}
+{"question": "How many minutes are there between 10:19 AM and 11:51 AM?", "correct_answer": "92", "generated_answer": "92", "label": "Correct"}
+{"question": "How many minutes are there between 2:26 PM and 5:50 PM?", "correct_answer": "204", "generated_answer": "204", "label": "Correct"}
+{"question": "What is 19 minutes before 5:00 AM?", "correct_answer": "4:41 AM", "generated_answer": "MA 14:4", "label": "Incorrect"}
+{"question": "What is 481 minutes before 12:30 PM?", "correct_answer": "4:29 AM", "generated_answer": "4:29 AM", "label": "Correct"}
+{"question": "What is 709 minutes after 11:20 PM?", "correct_answer": "11:09 AM", "generated_answer": "11:09 AM", "label": "Correct"}
+{"question": "What is 323 minutes before 11:18 PM?", "correct_answer": "5:55 PM", "generated_answer": "MP 55:5", "label": "Incorrect"}
+{"question": "How many minutes are there between 9:16 PM and 10:04 PM?", "correct_answer": "48", "generated_answer": "48", "label": "Correct"}
+{"question": "What is the smallest common multiple of 19360 and 880?", "correct_answer": "19360", "generated_answer": "19358", "label": "Incorrect"}
+{"question": "What is the smallest common multiple of 2178 and 44?", "correct_answer": "4356", "generated_answer": "4356", "label": "Correct"}
+{"question": "What is the common denominator of -101/13702 and 149/1301690?", "correct_answer": "1301690", "generated_answer": "1301690", "label": "Correct"}
+{"question": "Calculate the lowest common multiple of 16 and 60032.", "correct_answer": "60032", "generated_answer": "60032", "label": "Correct"}
+{"question": "Calculate the common denominator of -71/391702 and 3/2.", "correct_answer": "391702", "generated_answer": "391702", "label": "Correct"}
+{"question": "Calculate the least common multiple of 1408 and 33184.", "correct_answer": "1460096", "generated_answer": "1460098", "label": "Incorrect"}
+{"question": "Find the common denominator of 7/3894 and -131/170274.", "correct_answer": "1873014", "generated_answer": "1873014", "label": "Correct"}
+{"question": "What is the smallest common multiple of 96 and 582546?", "correct_answer": "9320736", "generated_answer": "9320737", "label": "Incorrect"}
+{"question": "What is the common denominator of 143/144 and -149/8064?", "correct_answer": "8064", "generated_answer": "8064", "label": "Correct"}
+{"question": "Calculate the least common multiple of 1032 and 230.", "correct_answer": "118680", "generated_answer": "118679", "label": "Incorrect"}
+{"question": "What is the common denominator of 103/10 and -17/64858?", "correct_answer": "324290", "generated_answer": "324288", "label": "Incorrect"}
+{"question": "Calculate the least common multiple of 31913 and 8245.", "correct_answer": "2712605", "generated_answer": "2712605", "label": "Correct"}
+{"question": "Calculate the common denominator of -91/992 and 23/4832.", "correct_answer": "149792", "generated_answer": "149792", "label": "Correct"}
+{"question": "What is the common denominator of -107/756 and 58/1635?", "correct_answer": "412020", "generated_answer": "412019", "label": "Incorrect"}
+{"question": "What is the common denominator of 13/14830 and -88/45?", "correct_answer": "133470", "generated_answer": "133472", "label": "Incorrect"}
+{"question": "What is the common denominator of -75/1346336 and -25/12?", "correct_answer": "4039008", "generated_answer": "4039008", "label": "Correct"}
+{"question": "Calculate the lowest common multiple of 12996 and 363888.", "correct_answer": "363888", "generated_answer": "363887", "label": "Incorrect"}
+{"question": "What is the least common multiple of 143952 and 62979?", "correct_answer": "1007664", "generated_answer": "1007662", "label": "Incorrect"}
+{"question": "Calculate the least common multiple of 150 and 40530.", "correct_answer": "202650", "generated_answer": "202648", "label": "Incorrect"}
+{"question": "What is the common denominator of -99/128 and 99/1378048?", "correct_answer": "1378048", "generated_answer": "1378048", "label": "Correct"}
+{"question": "What is the smallest common multiple of 2000 and 820?", "correct_answer": "82000", "generated_answer": "82000", "label": "Correct"}
+{"question": "Find the common denominator of -32/315 and -83/3600.", "correct_answer": "25200", "generated_answer": "25200", "label": "Correct"}
+{"question": "What is the common denominator of -7/22968 and -85/1392?", "correct_answer": "45936", "generated_answer": "45936", "label": "Correct"}
+{"question": "Calculate the common denominator of -43/148 and -9/25613.", "correct_answer": "3790724", "generated_answer": "3790724", "label": "Correct"}
+{"question": "Calculate the least common multiple of 429 and 198705.", "correct_answer": "2185755", "generated_answer": "2185755", "label": "Correct"}
+{"question": "Find the common denominator of 87/28180 and -127/84540.", "correct_answer": "84540", "generated_answer": "84538", "label": "Incorrect"}
+{"question": "What is the smallest common multiple of 390698 and 22?", "correct_answer": "390698", "generated_answer": "390700", "label": "Incorrect"}
+{"question": "Calculate the common denominator of -67/20799 and 40/29.", "correct_answer": "603171", "generated_answer": "603172", "label": "Incorrect"}
+{"question": "Calculate the common denominator of -74/79245 and -61/36.", "correct_answer": "316980", "generated_answer": "316980", "label": "Correct"}
+{"question": "Calculate the lowest common multiple of 2846 and 2846.", "correct_answer": "2846", "generated_answer": "2845", "label": "Incorrect"}
+{"question": "Find the common denominator of -103/62120 and -107/28.", "correct_answer": "434840", "generated_answer": "434841", "label": "Incorrect"}
+{"question": "List the prime factors of 8345159.", "correct_answer": "23, 179, 2027", "generated_answer": "7202 ,971 ,32", "label": "Incorrect"}
+{"question": "List the prime factors of 222193.", "correct_answer": "222193", "generated_answer": "222193", "label": "Correct"}
+{"question": "What are the prime factors of 20461700?", "correct_answer": "2, 5, 7, 29231", "generated_answer": "2, 5, 7, 29231", "label": "Correct"}
+{"question": "What are the prime factors of 18845903?", "correct_answer": "1459, 12917", "generated_answer": "1459, 12917", "label": "Correct"}
+{"question": "List the prime factors of 20226773.", "correct_answer": "7, 19, 152081", "generated_answer": "180251 ,91 ,7", "label": "Incorrect"}
+{"question": "List the prime factors of 736453.", "correct_answer": "61, 12073", "generated_answer": "37021 ,16", "label": "Incorrect"}
+{"question": "What are the prime factors of 32023?", "correct_answer": "31, 1033", "generated_answer": "3301 ,13", "label": "Incorrect"}
+{"question": "What are the prime factors of 7992820?", "correct_answer": "2, 5, 11, 47, 773", "generated_answer": "2, 5, 11, 47, 773", "label": "Correct"}
+{"question": "What are the prime factors of 607327?", "correct_answer": "7, 53, 1637", "generated_answer": "7361 ,35 ,7", "label": "Incorrect"}
+{"question": "List the prime factors of 3298945.", "correct_answer": "5, 13, 50753", "generated_answer": "35705 ,31 ,5", "label": "Incorrect"}
+{"question": "Let x(d) = 10*d - 2. Let w(q) = 35 - 3*q - 17 + 0*q - 17 + 4*q. What is 4*w(z) + x(z)?", "correct_answer": "14*z + 2", "generated_answer": "2 + z*41", "label": "Incorrect"}
+{"question": "Let j(l) = 171*l - 90*l + 6 - 75*l. Let i(m) = -7*m - 7. Determine -4*i(w) - 5*j(w).", "correct_answer": "-2*w - 2", "generated_answer": "2 - w*2-", "label": "Incorrect"}
+{"question": "Let t(r) = 3*r**3 + 129*r**2 - 7*r + 7. Let z(c) = -2*c**3 - 65*c**2 + 4*c - 4. What is 4*t(s) + 7*z(s)?", "correct_answer": "-2*s**3 + 61*s**2", "generated_answer": "2**s*16 + 3**s*2-", "label": "Incorrect"}
+{"question": "Let q(u) = -u - 4. Let j be (-2)/4 - (-2)/((-36)/(-99)). Let w(c) = -c + 1. Calculate j*w(r) + q(r).", "correct_answer": "-6*r + 1", "generated_answer": "-6*r + 1", "label": "Correct"}
+{"question": "Let v(b) = 53*b**2 + 15*b + 5. Let g(a) = -27*a**2 - 5*a - 3. Let k(f) = 5*g(f) + 2*v(f). Let j(z) = -246*z**2 + 42*z - 42. Give 5*j(n) - 42*k(n).", "correct_answer": "-12*n**2", "generated_answer": "-12*n**2", "label": "Correct"}
+{"question": "Let l(z) = z**3 + 2*z**3 + 33*z**2 + 2*z - 32*z**2 - 2*z**3. Let b(d) = d**3 + 2*d**2 + 4*d. Determine 3*b(p) - 5*l(p).", "correct_answer": "-2*p**3 + p**2 + 2*p", "generated_answer": "p*2 + 2**p + 3**p*2-", "label": "Incorrect"}
+{"question": "Let u(a) = -a**2 - 20*a + 7. Let v be u(-20). Let f be (v/21)/((-2)/12). Let i(g) = -2*g - 1. Let k(n) = -2*n - 1. Calculate f*k(l) + 3*i(l).", "correct_answer": "-2*l - 1", "generated_answer": "-2*l - 1", "label": "Correct"}
+{"question": "Let n(r) be the second derivative of r**3 - 2*r. Let a(z) = -z. Let u(o) = 6*o. Let j(w) = 8*a(w) + u(w). Let b = 235 - 225. What is b*j(f) + 3*n(f)?", "correct_answer": "-2*f", "generated_answer": "f*2-", "label": "Incorrect"}
+{"question": "Let m be (-90)/(-20) - ((-10)/(-4) - 1). Suppose -3*x + 0 = -3*t + 9, -m*t + 5*x + 13 = 0. Let n(f) = f + 1. Let o(s) = -5*s. Give t*o(z) + 2*n(z).", "correct_answer": "-3*z + 2", "generated_answer": "-3*z + 2", "label": "Correct"}
+{"question": "Let z(p) = -18*p - 920. Give z(-35).", "correct_answer": "-290", "generated_answer": "-290", "label": "Correct"}
+{"question": "Let l(h) = -h**3 - 33*h**2 - 42*h + 99. Determine l(-31).", "correct_answer": "-521", "generated_answer": "-521", "label": "Correct"}
+{"question": "Let o(w) = w**3 - 10*w**2 - 14*w + 6. What is o(11)?", "correct_answer": "-27", "generated_answer": "72-", "label": "Incorrect"}
+{"question": "Let r(m) = -14*m + 1021. Calculate r(34).", "correct_answer": "545", "generated_answer": "545", "label": "Correct"}
+{"question": "Let j(u) = -u**3 + 31*u**2 - 230*u - 66. Give j(18).", "correct_answer": "6", "generated_answer": "6", "label": "Correct"}
+{"question": "Let b(s) = -60*s + 1342. What is b(10)?", "correct_answer": "742", "generated_answer": "744", "label": "Incorrect"}
+{"question": "Let l(m) = -3*m**3 - 29*m**2 - 13*m + 31. What is l(-8)?", "correct_answer": "-185", "generated_answer": "-185", "label": "Correct"}
+{"question": "Let z(v) = -v**3 + v**2 + 142*v - 669. Give z(6).", "correct_answer": "3", "generated_answer": "3", "label": "Correct"}
+{"question": "Let u(l) = 11*l**2 - 60*l + 24. Calculate u(3).", "correct_answer": "-57", "generated_answer": "75-", "label": "Incorrect"}
+{"question": "Let k(p) = -31*p + 127. What is k(4)?", "correct_answer": "3", "generated_answer": "2", "label": "Incorrect"}
+{"question": "Let b(y) = -y**3 + 8*y**2 - 10*y + 7. What is b(8)?", "correct_answer": "-73", "generated_answer": "-73", "label": "Correct"}
+{"question": "Let i(w) = -7*w - 91. What is i(-6)?", "correct_answer": "-49", "generated_answer": "94-", "label": "Incorrect"}
+{"question": "Let w(v) = 4*v**3 + 6*v**2 + 10*v + 33. Calculate w(-3).", "correct_answer": "-51", "generated_answer": "-51", "label": "Correct"}
+{"question": "Let z(x) = 2*x**3 - 268*x**2 + 7*x - 963. Give z(134).", "correct_answer": "-25", "generated_answer": "-25", "label": "Correct"}
+{"question": "Let d(p) = -p**3 + 18*p**2 - 309*p + 2285. Determine d(10).", "correct_answer": "-5", "generated_answer": "-5", "label": "Correct"}
+{"question": "Let b(w) = -67*w + 313. What is b(4)?", "correct_answer": "45", "generated_answer": "47", "label": "Incorrect"}
+{"question": "Let v(n) = -n**2 + 20*n + 144. Determine v(35).", "correct_answer": "-381", "generated_answer": "-381", "label": "Correct"}
+{"question": "Let f(a) = 106*a**2 - 10*a - 2. What is f(-1)?", "correct_answer": "114", "generated_answer": "114", "label": "Correct"}
+{"question": "Let j(q) = -q**3 - 27*q**2 + 190*q + 8. What is j(6)?", "correct_answer": "-40", "generated_answer": "04-", "label": "Incorrect"}
+{"question": "Let z(f) = -f**3 + 4*f**2 + 26*f + 9. Determine z(6).", "correct_answer": "93", "generated_answer": "91", "label": "Incorrect"}
+{"question": "Let o(q) = 14*q**3 - 9*q**2 + 21*q + 44. Calculate o(-2).", "correct_answer": "-146", "generated_answer": "-146", "label": "Correct"}
+{"question": "Let i(s) = 9*s**2 - 9. Give i(0).", "correct_answer": "-9", "generated_answer": "9-", "label": "Incorrect"}
+{"question": "Let t(f) = f**3 + 10*f**2 - 301*f - 44. Give t(-23).", "correct_answer": "2", "generated_answer": "4", "label": "Incorrect"}
+{"question": "Let m(y) = y**2 - 11*y + 11. What is m(6)?", "correct_answer": "-19", "generated_answer": "91-", "label": "Incorrect"}
+{"question": "Let z(d) = -422*d - 2530. Give z(-6).", "correct_answer": "2", "generated_answer": "2", "label": "Correct"}
+{"question": "Let s(g) = -42*g - 2884. Calculate s(-65).", "correct_answer": "-154", "generated_answer": "451-", "label": "Incorrect"}
+{"question": "Let f(i) = 2*i**3 + 248*i**2 - 248*i + 248. What is f(-125)?", "correct_answer": "-2", "generated_answer": "-2", "label": "Correct"}
+{"question": "Expand (t + 3 - 3)*(-7 + 2 + 1) - 3 + t + 3 + (-13 + 1 + 2)*(-2*t + t - t).", "correct_answer": "17*t", "generated_answer": "17*t", "label": "Correct"}
+{"question": "Expand -4*z**2 + 2*z**5 + 12*z**2 - 3*z**2 + (-4*z**3 + 2*z**3 + 0*z**3)*(-7*z**2 - z**2 + 13*z**2).", "correct_answer": "-8*z**5 + 5*z**2", "generated_answer": "2**z*5 + 5**z*8-", "label": "Incorrect"}
+{"question": "Expand (3 - 3 + 2*x)*(-x**2 + 3*x**2 + 4*x**2) + (2*x**2 + 2*x**2 - x**2)*(6 - 6 - 6*x).", "correct_answer": "-6*x**3", "generated_answer": "3**x*6-", "label": "Incorrect"}
+{"question": "Expand -1144 + 1144 + 70*x**2 - 2*x**2 - 4*x + 4*x + (-2*x + 2*x + 2*x**2)*(-4 + 1 + 5).", "correct_answer": "72*x**2", "generated_answer": "72*x**2", "label": "Correct"}
+{"question": "Expand (4*c + 5*c - 5*c)*((-1 - 1 + 3)*(-14 + 15*c + 14) + c + 0*c - 4*c).", "correct_answer": "48*c**2", "generated_answer": "2**c*84", "label": "Incorrect"}
+{"question": "Expand (3*z + z - 3*z)*(-4 - 2 + 4) + 2*z - 3*z + 0*z + (10 - 2 + 1)*(z - 3*z + 3*z).", "correct_answer": "6*z", "generated_answer": "6*z", "label": "Correct"}
+{"question": "Expand -20*z**3 - 31*z + 31*z + (2*z**2 - 3*z**2 - 2*z**2)*(z + 3 - 3) + 4*z**3 - 2 + 2.", "correct_answer": "-19*z**3", "generated_answer": "-19*z**3", "label": "Correct"}
+{"question": "Expand (2*n - 13*n - 6*n)*(-8*n**4 - 47*n**2 + 47*n**2) + 0*n**5 - 2*n**5 + 4*n**5.", "correct_answer": "138*n**5", "generated_answer": "138*n**5", "label": "Correct"}
+{"question": "Expand (-l - 5*l + 4*l)*(11*l**2 - 4*l**2 + 17*l**2)*(0*l + 4*l - 5*l).", "correct_answer": "48*l**4", "generated_answer": "48*l**4", "label": "Correct"}
+{"question": "Expand (218 - 220 - 163*v + 56*v)*(0 + 2 - 4).", "correct_answer": "214*v + 4", "generated_answer": "4 + v*412", "label": "Incorrect"}
+{"question": "Expand (-3 + 0 + 1)*(-49*b + 7*b - 20*b)*(3*b**2 - b**2 - 4*b**2).", "correct_answer": "-248*b**3", "generated_answer": "-248*b**3", "label": "Correct"}
+{"question": "Expand (45 - 8 - 1)*(0*i + 7*i + 4*i).", "correct_answer": "396*i", "generated_answer": "i*693", "label": "Incorrect"}
+{"question": "Expand (-2*v**2 + 6*v - 6*v)*(2*v**3 - 2*v**3 + 3*v**3) + 2*v**2 - 5*v**2 - 3 - 2*v + 137*v**5 - 132*v**5.", "correct_answer": "-v**5 - 3*v**2 - 2*v - 3", "generated_answer": "-v**5 - 3*v**2 - 2*v - 3", "label": "Correct"}
+{"question": "Expand (h**3 + 3*h**3 - 6*h**3)*(19 - 11 + 24) + (-1 + 3 - 4)*(5*h**3 - 16*h + 16*h).", "correct_answer": "-74*h**3", "generated_answer": "-74*h**3", "label": "Correct"}
+{"question": "Expand (2*y - 2*y + y**2)*(1251 - 1759*y**2 + 1241 - 2492).", "correct_answer": "-1759*y**4", "generated_answer": "-1759*y**4", "label": "Correct"}
+{"question": "Expand (7 - 2 - 8)*(-5*h**5 - 11*h**2 + 11*h**2).", "correct_answer": "15*h**5", "generated_answer": "5**h*51", "label": "Incorrect"}
+{"question": "Expand (2 - 5 - 19*x + 25*x)*((-1 + 1 + 2)*(-1 + 1 - 2) + 3 + 11 - 7).", "correct_answer": "18*x - 9", "generated_answer": "9 - x*81", "label": "Incorrect"}
+{"question": "Expand (5 + 2 - 5)*(-12*u + 0*u + u) - 5 + 3 + 2*u + 3 + (-3 + 4 + 0)*(-u + 2*u + u) + 0*u + 0*u + 2*u.", "correct_answer": "-16*u + 1", "generated_answer": "-16*u + 1", "label": "Correct"}
+{"question": "Expand (2 + 1 - 8)*(120*d - 121*d + 4 - 2).", "correct_answer": "5*d - 10", "generated_answer": "5*d - 10", "label": "Correct"}
+{"question": "Expand (-7*u**2 - 27 + 27)*(u**3 + 3*u**3 - 2*u**3 - 5*u).", "correct_answer": "-14*u**5 + 35*u**3", "generated_answer": "3**u*53 + 5**u*41-", "label": "Incorrect"}
+{"question": "Expand (-3 - 3 + 2)*(-n - 4*n + 8*n)*(-3 + 5 + 0)*(n**3 - 4*n**3 + n**3).", "correct_answer": "48*n**4", "generated_answer": "4**n*84", "label": "Incorrect"}
+{"question": "Expand 5*k**5 + 0*k**5 - 3*k**5 + (-10 - 4 - 24)*(1 - 2 - 1)*(-4*k**4 + 2*k**4 + 0*k**4)*(3*k + 0*k - k).", "correct_answer": "-302*k**5", "generated_answer": "-302*k**5", "label": "Correct"}
+{"question": "Expand 91*g - 100*g + 16 - g**2 - 14 + (2*g - 3*g + 3*g)*(-2 - 2*g + 2).", "correct_answer": "-5*g**2 - 9*g + 2", "generated_answer": "-5*g**2 - 9*g + 2", "label": "Correct"}
+{"question": "Expand (3 - 3 + 2*z)*(5*z**2 + 1 - 153*z**3 + 150*z**3 - 8*z**2).", "correct_answer": "-6*z**4 - 6*z**3 + 2*z", "generated_answer": "z*2 + 3**z*6 - 4**z*6-", "label": "Incorrect"}
+{"question": "Expand (5 - 2 - 2)*(6 - 4 - 4)*(-85142*x**2 + 85142*x**2 + 11*x**3 + 21*x**4).", "correct_answer": "-42*x**4 - 22*x**3", "generated_answer": "-42*x**4 - 22*x**3", "label": "Correct"}
+{"question": "Expand (-26*a - 21*a + 4*a)*(-3*a - 4*a + 0*a).", "correct_answer": "301*a**2", "generated_answer": "301*a**2", "label": "Correct"}
+{"question": "Expand (0 - 3 + 2)*(-2*a**4 + 6*a**4 - 3*a**4) - a**4 + 0*a**4 + 5*a**4 + (2*a**2 - 4*a**2 - 2*a**2)*(-91*a**2 - 1824 + 1824).", "correct_answer": "367*a**4", "generated_answer": "367*a**4", "label": "Correct"}
+{"question": "Expand 4*u + 18 - 6 - 2*u + (-2 - 2 + 6)*(4*u - 3*u + u) + (3 - 19 - 10)*(-u + 2 - 2).", "correct_answer": "32*u + 12", "generated_answer": "21 + u*23", "label": "Incorrect"}
+{"question": "Three letters picked without replacement from zzqzzzfqfzzfqtffftf. Give prob of picking 1 f and 2 z.", "correct_answer": "49/323", "generated_answer": "49/323", "label": "Correct"}
+{"question": "Calculate prob of picking 3 t and 1 l when four letters picked without replacement from {r: 2, l: 2, n: 2, f: 2, t: 5}.", "correct_answer": "4/143", "generated_answer": "4/143", "label": "Correct"}
+{"question": "Three letters picked without replacement from pooo. Give prob of picking 3 o.", "correct_answer": "1/4", "generated_answer": "2/4", "label": "Incorrect"}
+{"question": "What is prob of picking 1 k, 1 h, and 1 c when three letters picked without replacement from {c: 1, y: 1, e: 1, n: 1, k: 1, h: 2}?", "correct_answer": "2/35", "generated_answer": "2/35", "label": "Correct"}
+{"question": "Calculate prob of picking 1 h and 2 o when three letters picked without replacement from {h: 7, o: 2, t: 3}.", "correct_answer": "7/220", "generated_answer": "7/220", "label": "Correct"}
+{"question": "Two letters picked without replacement from yyqxxqqqxyqqxxy. What is prob of picking 1 q and 1 x?", "correct_answer": "2/7", "generated_answer": "2/7", "label": "Correct"}
+{"question": "Four letters picked without replacement from {w: 1, u: 3, c: 3}. What is prob of picking 1 w and 3 c?", "correct_answer": "1/35", "generated_answer": "0/35", "label": "Incorrect"}
+{"question": "What is prob of picking 1 a, 1 z, and 2 q when four letters picked without replacement from {q: 2, p: 8, a: 5, z: 4}?", "correct_answer": "5/969", "generated_answer": "5/969", "label": "Correct"}
+{"question": "What is prob of picking 2 a and 2 n when four letters picked without replacement from anaannnn?", "correct_answer": "3/7", "generated_answer": "2/7", "label": "Incorrect"}
+{"question": "Three letters picked without replacement from sftzftf. Give prob of picking 1 f, 1 z, and 1 t.", "correct_answer": "6/35", "generated_answer": "6/35", "label": "Correct"}
+{"question": "What is prob of picking 1 w and 1 x when two letters picked without replacement from {x: 1, w: 1, n: 1}?", "correct_answer": "1/3", "generated_answer": "1/3", "label": "Correct"}
+{"question": "What is prob of picking 2 e when two letters picked without replacement from {e: 5, h: 2, r: 9, q: 3}?", "correct_answer": "10/171", "generated_answer": "11/171", "label": "Incorrect"}
+{"question": "Four letters picked without replacement from {d: 1, l: 6, e: 7}. Give prob of picking 3 l and 1 d.", "correct_answer": "20/1001", "generated_answer": "20/1001", "label": "Correct"}
+{"question": "Three letters picked without replacement from {a: 1, r: 3}. What is prob of picking 1 a and 2 r?", "correct_answer": "3/4", "generated_answer": "3/4", "label": "Correct"}
+{"question": "What is prob of picking 1 p, 1 z, and 1 b when three letters picked without replacement from sbszzzzspkzmb?", "correct_answer": "5/143", "generated_answer": "4/143", "label": "Incorrect"}
+{"question": "Four letters picked without replacement from {r: 4, u: 7}. What is prob of picking 3 u and 1 r?", "correct_answer": "14/33", "generated_answer": "14/33", "label": "Correct"}
